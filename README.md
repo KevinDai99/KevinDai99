@@ -5,7 +5,7 @@
 - <b>Bioinformatics</b>
   - [In-Silico Drug Discovery](github.com/KevinDai99/InsilicoDrugDiscovery)
 - <b>Machine Learning Projects</b>
-  - [Spam Filter Model](github.com/KevinDai99/Spam-Filter-with-Naive-Bayes) <b><i>(Potentially NSFW)</b></i>
+  - [Spam Filter Model](github.com/KevinDai99/Spam-Filter-with-Naive-Bayes)
 - <b>Data Visalization Projects</b>
   - [Tsunami Leaflet](github.com/KevinDai99/Tsunami_Leaflet_Project)
   - [BellyButton Dasboard (JS)](https://github.com/joshmadakor1/Jwipe.PowerShell)
