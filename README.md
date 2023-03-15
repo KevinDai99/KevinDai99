@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kevin! <br/><a href="https://github.com/KevinDai99">Data Analyst | Biomedical Discovery & Commercialization </a>
   
-<h2>👨‍💻 Data Science Projects Projects:</h2>
+<h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Bioinformatics</b>
   - [In-Silico Drug Discovery](github.com/KevinDai99/InsilicoDrugDiscovery)
