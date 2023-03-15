@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin! <br/><a href="https://github.com/KevinDai99">Data Analyst</a>
+<h1>Hi, I'm Kevin! <br/><a href="https://github.com/KevinDai99">Data Analyst | Biomedical Discovery & Commercialization </a>
   
 <h2>👨‍💻 Data Science Projects Projects:</h2>
 
