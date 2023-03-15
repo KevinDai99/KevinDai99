@@ -3,11 +3,11 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Bioinformatics</b>
-  - [In-Silico Drug Discovery](github.com/KevinDai99/InsilicoDrugDiscovery)
+  - [In-Silico Drug Discovery](https://github.com/KevinDai99/InsilicoDrugDiscovery)
 - <b>Machine Learning Projects</b>
-  - [Spam Filter Model](github.com/KevinDai99/Spam-Filter-with-Naive-Bayes)
+  - [Spam Filter Model](https://github.com/KevinDai99/Spam-Filter-with-Naive-Bayes)
 - <b>Data Visalization Projects</b>
-  - [Tsunami Leaflet](github.com/KevinDai99/Tsunami_Leaflet_Project)
+  - [Tsunami Leaflet](https://github.com/KevinDai99/Tsunami_Leaflet_Project)
   - [BellyButton Dasboard (JS)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Citi Bike Tableau](https://public.tableau.com/app/profile/kevin.dai4637/viz/CitiBikeCustomerAnalysis/CustomerAnalysis)
 - <b>Database Building Practice</b>
