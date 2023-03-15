@@ -9,18 +9,17 @@
 - <b>Data Visalization Projects</b>
   - [Tsunami Leaflet](github.com/KevinDai99/Tsunami_Leaflet_Project)
   - [BellyButton Dasboard (JS)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Citi Bike Tableau](https://github.com/joshmadakor1/Jwipe.PowerShell)
-- <b>Database Practice</b>
+  - [Citi Bike Tableau](https://public.tableau.com/app/profile/kevin.dai4637/viz/CitiBikeCustomerAnalysis/CustomerAnalysis)
+- <b>Database Building Practice</b>
   - [NoSQL (MongoDB)](https://github.com/KevinDai99/NoSQL-Challenge)
   - [Crowdfunding (ETL) (SQL)](https://github.com/KevinDai99/Crowdfunding_ETL)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [SQLAlchemy & Flask API](https://github.com/KevinDai99/sqlalchemy-FlaskAPI)
+  - [SQL DataBase Building](https://github.com/KevinDai99/SQL-Practice)
 - <b>Web Scraping</b>
-  - [WebScraping Mars Data](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>VBA Practice</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  
+  - [WebScraping Mars Data](https://github.com/KevinDai99/WebScrapingMarsData)
 
-<h2> 🤳 Connect with me:</h2>
+  
+<h2> 🤳 Connect with me on Linkedin!:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
