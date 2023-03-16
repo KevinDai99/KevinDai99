@@ -2,7 +2,7 @@
   
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Bioinformatics</b>
+- <b>Bioinformatics ML Projects</b>
   - [In-Silico Drug Discovery](https://github.com/KevinDai99/InsilicoDrugDiscovery)
 - <b>Machine Learning Projects</b>
   - [Spam Filter](https://github.com/KevinDai99/Spam-Filter-with-Naive-Bayes)
