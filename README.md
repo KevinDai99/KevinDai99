@@ -6,6 +6,7 @@
   - [In-Silico Drug Discovery](https://github.com/KevinDai99/InsilicoDrugDiscovery)
 - <b>Machine Learning Projects</b>
   - [Spam Filter Model](https://github.com/KevinDai99/Spam-Filter-with-Naive-Bayes)
+  - [CryptoCluster](https://github.com/KevinDai99/CryptoClustering)
 - <b>Data Visalization Projects</b>
   - [Tsunami Leaflet](https://github.com/KevinDai99/Tsunami_Leaflet_Project)
   - [BellyButton Dasboard (JS)](https://github.com/joshmadakor1/Jwipe.PowerShell)
