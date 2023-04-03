@@ -5,6 +5,7 @@
 - <b>Bioinformatics ML Projects</b>
   - [In-Silico Drug Discovery](https://github.com/KevinDai99/InsilicoDrugDiscovery)
 - <b>Machine Learning Projects</b>
+  - [Deep-Learning Challenge](https://github.com/KevinDai99/deep-learning-challenge.git)
   - [Spam Filter](https://github.com/KevinDai99/Spam-Filter-with-Naive-Bayes)
   - [CryptoCluster](https://github.com/KevinDai99/CryptoClustering)
   - [Credit Risk Classification](https://github.com/KevinDai99/Credit-Risk-Classification-)
